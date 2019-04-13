@@ -2,10 +2,6 @@
 Was It Worth The 7 Days?
 <head>
 <style>
-body {
-  background-image: url("https://nintendosoup.com/wp-content/uploads/2018/11/alessia-cara-8217-s-latest-song-features-tons-of-references-to-maro-and-zelda-pYpaBQ-f6fM.jpg")
-  background-color: rgb(230,207,191);
-}
 
 h3 {
   color: rgb(45,35,33);
